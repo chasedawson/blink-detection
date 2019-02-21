@@ -1,2 +1,2 @@
 # blink-detection
-Java program that uses OpenCV to count blinks given video input.
+This project is a collection of Java programs that use compouter vision and statistical techniques to count blinks given video input. Abnormal blink rate is associated with Parkinson's disease, so blink-detection was developed to determine if blinks can accurately be counted from a video. Initial self testing led to an accuracy rate of 97%. This project needs to be further developed to better handle varying lighting conditions, skin tone, and eye color. 
